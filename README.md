@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🤔관심있는 스택 및 🛠프로젝트 수행
+## 🤔 🛠
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
