@@ -76,9 +76,6 @@
     <a href="https://github.com/Yong-Yong2">
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub" />
     </a>
-    <a href="https://www.notion.so/yong0/Kim-RimYong-9e39bd2cf22a4445a44059e2e04cd1c6?pvs=4">
-      <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat" alt="Notion" />
-    </a>
 
   <br>
     <a href="https://github.com/Yong-Yong2">
